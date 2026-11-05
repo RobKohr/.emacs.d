@@ -1,0 +1,6 @@
+eln-cache/
+auto-save-list/
+history
+elpa/
+*~
+*.elc
